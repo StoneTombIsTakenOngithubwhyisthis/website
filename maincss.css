@@ -1,0 +1,42 @@
+.button{
+        height: 125px;
+        width: 125px;
+        padding: 5px;
+        font-family: Verdana;
+        font-size: 13px;
+        text-align: center;
+        color: darkcyan;
+        background-color: lightskyblue;
+        margin: 10px;
+        border-radius: 25px;
+    }
+
+    .button1{
+        height: 125px;
+        width: 125px;
+        padding: 5px;
+        font-family: Verdana;
+        font-size: 13px;
+        text-align: center;
+        color: darkcyan;
+        background-color: lightskyblue;
+        margin: 10px;
+        margin-left: 0px;
+        border-radius: 25px;
+
+    }
+
+    body{
+        margin: 25px;
+        border-radius: 25px;
+        background-color: rgb(162, 120, 226);
+    
+    }
+
+    html{
+        background-color: rgb(134, 98, 188);
+    }
+
+    .titles{
+        margin-left: 10px;
+    }
