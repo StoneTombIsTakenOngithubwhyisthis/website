@@ -1,0 +1,100 @@
+.button{
+        height: 125px;
+        width: 125px;
+        padding: 5px;
+        font-family: Verdana;
+        font-size: 13px;
+        text-align: center;
+        color: darkcyan;
+        background-color: lightskyblue;
+        margin: 10px;
+        border-radius: 25px;
+    }
+
+    .button1{
+        height: 125px;
+        width: 125px;
+        padding: 5px;
+        font-family: Verdana;
+        font-size: 13px;
+        text-align: center;
+        color: darkcyan;
+        background-color: lightskyblue;
+        margin: 10px;
+        margin-left: 0px;
+        border-radius: 25px;
+
+    }
+
+    body{
+        margin: 25px;
+        border-radius: 25px;
+        background-color: rgb(162, 120, 226);
+    
+    }
+
+    html{
+        background-color: rgb(134, 98, 188);
+    }
+
+    .titles{
+        margin-left: 10px;
+    }
+
+    p{
+        font-family: Verdana;
+    }
+
+    .details{
+        background-color: rgb(142, 120, 197);
+        border-radius: 10px;
+        width: 500px;
+        height: 175px;
+    }
+
+    .downloadbtn{
+        background-color:rgb(102, 68, 189);
+        border-radius: 10px;
+    }
+
+    .downloadbutton{
+        height: 100px;
+        width: 400px;
+        padding: 2px;
+        font-family: Verdana;
+        font-size: 30px;
+        text-align: center;
+        color: rgb(220, 35, 161);
+        background-color: rgb(185, 135, 250);
+        margin: 10px;
+        margin-left: 0px;
+        border-radius: 25px;
+
+    } 
+    
+    .downloadbutton:hover{
+        transform: scale(1.2);
+        transition: 0.5s
+    }
+
+    #toptitle:hover{
+        transform: scale(1.2);
+        transition: 0.5s;
+    }
+
+    .button:hover{
+        transform: scale(1.2);
+        transition: 0.5s;
+    }
+
+    .button1:hover{
+        transform: scale(1.2);
+        transition: 0.5s;
+    }
+   
+
+    
+
+  
+
+    
