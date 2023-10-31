@@ -29,12 +29,12 @@
     body{
         margin: 25px;
         border-radius: 25px;
-        background-color: rgb(0, 10, 200);
+        background-color: Gray;
     
     }
 
     html{
-        background-color: rgb(0, 10, 220);
+        background-color: rgb(0, 0, 20);
     }
 
     .titles{
