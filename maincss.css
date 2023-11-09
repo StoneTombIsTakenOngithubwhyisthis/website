@@ -41,6 +41,11 @@
         margin-left: 10px;
     }
 
+    .newtitles{
+        background-color: rgb(150, 128, 128);
+        color: brown;
+    }
+
     p{
         font-family: Verdana;
     }
